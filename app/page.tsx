@@ -12,7 +12,7 @@ export default function Home() {
         width={60}
         height={60}
         className="p-1 border border-dashed rounded-xl border-muted-foreground"
-        alt="Picture of the author"
+        alt="Minha foto de perfil"
       />
       <section className="my-5">
         <h1 className="text-xl font-extrabold tracking-tight scroll-m-20 lg:text-5xl">
