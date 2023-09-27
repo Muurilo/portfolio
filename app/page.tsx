@@ -32,16 +32,29 @@ export default function Home() {
             className="p-0 text-sm font-medium leading-none text-primary"
             asChild
           >
-            <Link href="mailto:hello@muurilo.xyz">hello@muurilo.xyz</Link>
+            <Link
+              aria-label="Me envie um email"
+              href="mailto:hello@muurilo.xyz"
+            >
+              hello@muurilo.xyz
+            </Link>
           </Button>
         </p>
 
         <div className="flex space-x-2">
-          <Link href="https://github.com/Muurilo" target="_blank">
-            <GitHubLogoIcon className="w-5 h-5 text-muted-foreground" />
+          <Link
+            href="https://github.com/Muurilo"
+            target="_blank"
+            aria-label="Acesse meu perfil no GitHub"
+          >
+            <GitHubLogoIcon className="w-6 h-6 text-muted-foreground" />
           </Link>
-          <Link href="https://www.linkedin.com/in/muurilo/" target="_blank">
-            <LinkedInLogoIcon className="w-5 h-5 text-muted-foreground" />
+          <Link
+            href="https://www.linkedin.com/in/muurilo/"
+            aria-label="Acesse meu perfil no LinkedIn"
+            target="_blank"
+          >
+            <LinkedInLogoIcon className="w-6 h-6 text-muted-foreground" />
           </Link>
         </div>
       </section>
