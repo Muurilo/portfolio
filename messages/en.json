@@ -1,20 +1,20 @@
 {
   "Home": {
-    "title": "Murilo Cunha — Desenvolvedor Full-Stack",
-    "description": "Desenvolvo websites extraordinários, utilizando as mais recentes e avançadas tecnologias. Tenho uma paixão pela busca constante de novos conhecimentos, aprimorando minhas habilidades e explorando ferramentas inovadoras",
-    "contact": "Fale comigo"
+    "title": "Murilo Cunha — Full-Stack Developer",
+    "description": "I develop extraordinary websites using the most recent and advanced technologies. I have a passion for constantly searching for knowledge, developing my skills, and exploring innovator tools.",
+    "contact": "Reach me, at"
   },
   "About": {
     "history": {
-      "title": "História",
+      "title": "History",
       "text": "Em 2017, iniciei minha jornada no mundo da programação, uma escolha que viria a moldar meu futuro de maneiras surpreendentes. Minhas primeiras incursões foram na criação de mods para jogos, utilizando a linguagem de programação Lua. Foi uma fase empolgante, onde eu mergulhei profundamente na arte de transformar e aprimorar experiências de jogos. No entanto, à medida que o tempo passava, minha curiosidade me levava a explorar novos horizontes. Foi então que me deparei com o fascinante universo do desenvolvimento de websites. Ao iniciar essa nova empreitada, algo mágico aconteceu: eu me apaixonei pelo processo criativo de construir websites interativos e funcionais."
     },
     "skills": {
-      "title": "História",
-      "text": "Sou especializado no ecossistema React e Next.js, e minha experiência se estende a uma ampla gama de ferramentas, incluindo TypeScript, Jest, Chakra, Tailwind, PostgreSQL e muito mais. A web apresenta tecnologias incríveis e estou ansioso para explorá-las ainda mais."
+      "title": "Skills",
+      "text": "I'm specialized in React and Next.js ecosystem, and my experience extends to a wide range of tools, including TypeScript, Jest, Chakra, Tailwind, PostgreSQL, etc. The web shows amazing technologies, and I'm very excited to explore them a lot."
     },
     "now": {
-      "title": "Agora",
+      "title": "Now",
       "text": "Estou atualmente em busca de oportunidades de emprego como desenvolvedor, tanto em modalidades remotas quanto presenciais. Tenho um forte conjunto de habilidades e experiência em desenvolvimento de software, e estou animado para aplicar esse conhecimento em um ambiente de trabalho que me permita contribuir de forma significativa para projetos desafiadores. Estou aberto a explorar diferentes setores e projetos, buscando constantemente oportunidades de aprendizado e crescimento profissional."
     }
   }
